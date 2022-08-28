@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DEMO_02/DEMO_02.iml" filepath="$PROJECT_DIR$/DEMO_02/DEMO_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo01/Demo_01.iml" filepath="$PROJECT_DIR$/Demo01/Demo_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mayi_JAVA.iml" filepath="$PROJECT_DIR$/Mayi_JAVA.iml" />
+    </modules>
+  </component>
+</project>
